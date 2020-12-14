@@ -41,5 +41,5 @@
 ### Revised
 ![Readingnew](/Resources/readingbygrade.new.png)
 
-## School Distric Analysis Summary
+## School District Analysis Summary
 #### By removing the data for the ninth grade students at Thomas High School, there were some changes evident in the analysis. The first change was that the school's count and percentage of students passing math went down slightly, it decreased 93.3% passing to 93.2% passing.The second change was that the school's count and percentage of student's passing reading went down. It decreased from 97.3% to 97.0%.  The third change was that the overall passing percentage went down from 90.9% to 90.6%.  The last significant change is that there is no longer data to compare ninth graders at Thomas High School to ninth graders at other schools in the district.
